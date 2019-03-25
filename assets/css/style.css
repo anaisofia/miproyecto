@@ -1,0 +1,39 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar {
+    background-color: #660066;
+}
+
+.navbar brand {
+  font-weight: 700:
+  font-size: 20px;
+}
+
+header {
+    background-image: url(../img/bg_hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 20rem;
+    padding-bottom: 1rem;
+}
+
+header .ExtraLight {
+  font-weight: 200;
+}
+
+header .Bold {
+  font-weight: 700;
+}
+
+#Intro h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+#Intro p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
