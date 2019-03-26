@@ -37,3 +37,28 @@ header .Bold {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
+
+#Portafolio {
+  background-color: #660066;
+}
+
+.guion {
+  width: 5rem;
+}
+
+.guionMain {
+  width: 10rem;
+}
+
+.card-title {
+  font-weight: 400;
+}
+
+.card-text {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+footer {
+  background-color: #660066;
+}
